@@ -1,0 +1,192 @@
+[
+    {
+        "question_id": "1",
+        "question_text": "Let A be a non-singular 3 \u00d7 3 matrix satisfying\nA3 \u2212 6A2 + 11A \u2212 6I = O.\nIf\nB = A2 \u2212 5A + 7I,\nthen find det(B) given that det(A) = 6.",
+        "options": {
+            "A": "1",
+            "B": "8",
+            "C": "27",
+            "D": "64"
+        },
+        "topic": "",
+        "subtopic": "",
+        "requires_diagram": false,
+        "ocr_difficulty": "",
+        "parser_difficulty": "",
+        "solver_difficulty": "",
+        "classification": "",
+        "expected_answer": "",
+        "source_page": ""
+    },
+    {
+        "question_id": "2",
+        "question_text": "If\nx +a\n\ny\n\nz\n\nx\n\ny+b\n\nz\n\nx\n\ny\n\nz+c\n\nwhere a, b, c \u0338= 0, then find the value of\ny z\nx\n+ + .\na b c\n\n= abc,",
+        "options": {
+            "A": "0",
+            "B": "1",
+            "C": "2",
+            "D": "3"
+        },
+        "topic": "",
+        "subtopic": "",
+        "requires_diagram": false,
+        "ocr_difficulty": "",
+        "parser_difficulty": "",
+        "solver_difficulty": "",
+        "classification": "",
+        "expected_answer": "",
+        "source_page": ""
+    },
+    {
+        "question_id": "3",
+        "question_text": "If\n\nx +1\nx \u22121\n\n\u008bx\n\ny=\n\n\u0081\n\nZ\n\nx2 + 1\ndx\nx4 + 1\n\n,\n\ndy\n.\nthen find\nd\nx\n\u0095 \u0081\n\u008b\n\u0098\nx +1\n2x\n\u2212 2",
+        "options": {
+            "A": "y ln\n\u0095 \u0081 x \u2212 1\u008b x \u2212 1\u0098\n2x\nx +1",
+            "B": "y ln\n+ 2\nx \u22121\nx \u22121",
+            "C": "y [ln(x + 1) \u2212 ln(x \u2212 1)]\n2y",
+            "D": "2\nx \u22121"
+        },
+        "topic": "",
+        "subtopic": "",
+        "requires_diagram": false,
+        "ocr_difficulty": "",
+        "parser_difficulty": "",
+        "solver_difficulty": "",
+        "classification": "",
+        "expected_answer": "",
+        "source_page": ""
+    },
+    {
+        "question_id": "4",
+        "question_text": "Evaluate:\n\n\u0081 2\n\u008b\n1\n\u22121 x \u2212 1",
+        "options": {
+            "A": "p tan\n+C\np\n2\n2x",
+            "B": "tan\u22121 x + C\n1",
+            "C": "ln(x 2 + 1) + C\n2\nx",
+            "D": "2\n+C\nx +1"
+        },
+        "topic": "",
+        "subtopic": "",
+        "requires_diagram": false,
+        "ocr_difficulty": "",
+        "parser_difficulty": "",
+        "solver_difficulty": "",
+        "classification": "",
+        "expected_answer": "",
+        "source_page": ""
+    },
+    {
+        "question_id": "5",
+        "question_text": "Let\na\u20d7 = 2i\u0302 \u2212 j\u0302 + k\u0302,\n\n\u20d7b = i\u0302 + 2 j\u0302 \u2212 k\u0302,\n\nand\nc\u20d7 = \u03bbi\u0302 + \u00b5 j\u0302 + 3k\u0302.\nIf\n[\u20d7\na \u20d7b c\u20d7] = 0\nand\nc\u20d7 \u00b7 (\u20d7\na + \u20d7b) = 10,\n\nCUET 2026\n\nPage 2 of 5\n\n\u00a9 Collegedunia.com\n\n\fthen find the value of \u03bb + \u00b5.",
+        "options": {
+            "A": "1",
+            "B": "2",
+            "C": "3",
+            "D": "4"
+        },
+        "topic": "",
+        "subtopic": "",
+        "requires_diagram": false,
+        "ocr_difficulty": "",
+        "parser_difficulty": "",
+        "solver_difficulty": "",
+        "classification": "",
+        "expected_answer": "",
+        "source_page": ""
+    },
+    {
+        "question_id": "6",
+        "question_text": "Find the equation of the plane which passes through the point\n(1, \u22122, 3),\ncontains the line of intersection of the planes\nx + y +z =1\nand\n2x \u2212 y + 3z = 4,\nand is perpendicular to the plane\nx \u2212 2 y + 2z + 5 = 0.",
+        "options": {
+            "A": "5x \u2212 y + z \u2212 10 = 0",
+            "B": "x + y + z \u2212 1 = 0",
+            "C": "2x \u2212 y + 3z \u2212 4 = 0",
+            "D": "3x + y \u2212 z + 2 = 0"
+        },
+        "topic": "",
+        "subtopic": "",
+        "requires_diagram": false,
+        "ocr_difficulty": "",
+        "parser_difficulty": "",
+        "solver_difficulty": "",
+        "classification": "",
+        "expected_answer": "",
+        "source_page": ""
+    },
+    {
+        "question_id": "7",
+        "question_text": "Let A and B be two 3 \u00d7 3 matrices such that\nA2 \u2212 4A + 3I = O\nand\nB = A\u22121 + 2A.\nFind the determinant of B if det(A) = 3.",
+        "options": {
+            "A": "9",
+            "B": "27\nCUET 2026\n\nPage 3 of 5\n\n\u00a9 Collegedunia.com",
+            "C": "81",
+            "D": "3"
+        },
+        "topic": "",
+        "subtopic": "",
+        "requires_diagram": false,
+        "ocr_difficulty": "",
+        "parser_difficulty": "",
+        "solver_difficulty": "",
+        "classification": "",
+        "expected_answer": "",
+        "source_page": ""
+    },
+    {
+        "question_id": "8",
+        "question_text": "If\n\n1 + sin x\nf (x) =\n1 \u2212 sin x\n\u0081\n\nthen find\n\n\u008btan x\n\n,\n\nln f (x)\n.\nx\u21920\nx2\n\nlim",
+        "options": {
+            "A": "1",
+            "B": "2",
+            "C": "4",
+            "D": "0"
+        },
+        "topic": "",
+        "subtopic": "",
+        "requires_diagram": false,
+        "ocr_difficulty": "",
+        "parser_difficulty": "",
+        "solver_difficulty": "",
+        "classification": "",
+        "expected_answer": "",
+        "source_page": ""
+    },
+    {
+        "question_id": "9",
+        "question_text": "If\nx +a\n\ny\n\nz\n\nx\n\ny+b\n\nz\n\nx\n\ny\n\nz+c\n\n= 2abc,\n\nwhere a, b, c \u0338= 0, then find the value of\ny z\nx\n+ + .\na b c",
+        "options": {
+            "A": "0",
+            "B": "1",
+            "C": "2",
+            "D": "3"
+        },
+        "topic": "",
+        "subtopic": "",
+        "requires_diagram": false,
+        "ocr_difficulty": "",
+        "parser_difficulty": "",
+        "solver_difficulty": "",
+        "classification": "",
+        "expected_answer": "",
+        "source_page": ""
+    },
+    {
+        "question_id": "10",
+        "question_text": "If\ny = x sin x\n\n\u0001tan x\n\n,\n\nthen find\ndy\n.\ndx",
+        "options": {
+            "A": "tan x sin x\ny sec x sin x ln x + tan x cos x ln x +\nx\n\u0095\n\nCUET 2026\n\n2\n\nPage 4 of 5\n\n\u0098\n\n\u00a9 Collegedunia.com",
+            "B": "y [cos x + sin x]",
+            "C": "y tan x",
+            "D": "x sin x\n\nCUET 2026\n\nPage 5 of 5\n\n\u00a9 Collegedunia.com"
+        },
+        "topic": "",
+        "subtopic": "",
+        "requires_diagram": false,
+        "ocr_difficulty": "",
+        "parser_difficulty": "",
+        "solver_difficulty": "",
+        "classification": "",
+        "expected_answer": "",
+        "source_page": ""
+    }
+]

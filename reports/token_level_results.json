@@ -1,0 +1,62 @@
+[
+    {
+        "id": "Q01",
+        "reconstruction": "${\\boldsymbol{\\Omega}}.$ Let A be a ${\\mathrm{non}}{\\mathrm{singular}}\\,3\\times3$ matrix satisfying\nA\u2019 \u2014 $6A^{2}+11A-6I=0.$\nIf\n$B=A^{2}-5A+7I,$\nthen find $\\operatorname*{det}(B)$ given that $\\operatorname*{det}(A)=6.$\n$(\\mathbf{A})\\ 1$\n$(\\mathbf{B})~\\mathbf{\\&}$\n$(\\mathbf{C})\\;27$\n$\\left(\\mathrm{D}\\right)\\,\\mathrm{G}4$",
+        "latency": 1.9490020275115967,
+        "math_spans_detected": 10
+    },
+    {
+        "id": "Q02",
+        "reconstruction": "$2.$ If\n$x+a$ $\\textstyle{\\mathcal{Y}}$ Zz\n$\\textstyle{\\mathcal{N}}$ ytb gg $=a b c,$\n$\\textstyle{\\mathcal{N}}$ $\\textstyle{\\sqrt{\\surd\\langle\\gamma_{\\mathbf{\\Lambda}}}}$ ${\\mathcal{Z}}\\ +\\,C$\nwhere a, b,c $\\neq0,$ then find the value of\n$\\textstyle{\\mathcal{N}}$ $\\widetilde{Z}$\n$\\frac{y}{b}$",
+        "latency": 1.4294352531433105,
+        "math_spans_detected": 12
+    },
+    {
+        "id": "Q03",
+        "reconstruction": "${\\bar{3}}.$ If\n& II $\\left({\\frac{x+1}{x-1}}\\right)^{x}$\nthen find ${\\frac{d y}{\\ast}}$\ndx\n$\\begin{array}{c}{{\\mathrm{(A)~}y\\displaystyle\\left[\\ln\\left(\\frac{x+1}{x-1}\\right)-\\frac{2x}{x^{2}-1}\\right]}}\\\\ {{\\mathrm{(B)~}y\\displaystyle\\left[\\ln\\left(\\frac{x+1}{x-1}\\right)+\\frac{2x}{x^{2}-1}\\right]}}\\\\ {{\\mathrm{(C)~}y\\displaystyle\\left[\\ln\\left(x+1\\right)-\\ln(x-1)\\right]}}\\end{array}$",
+        "latency": 2.5544240474700928,
+        "math_spans_detected": 4
+    },
+    {
+        "id": "Q04",
+        "reconstruction": "${\\dot{\\mathbf{}}}A.$ Evaluate:\n$\\textstyle x^{2}+1$\ndx\n$\\chi^{4}\\vdash\\ 1$\n\u2014\n=) +C\n$\\begin{array}{l}{{(\\mathrm{A})\\;\\frac{x}{\\sqrt{2}}\\mathrm{tan}^{-1}\\left(\\frac{x}{\\sqrt{2}x}\\right.}}\\\\ {{(\\mathrm{B})\\;\\mathrm{tan}^{-1}x+C}}\\\\ {{(C)\\;\\frac{1}{2}\\ln(x^{2}+1)+C}}\\end{array}$",
+        "latency": 1.6524107456207275,
+        "math_spans_detected": 4
+    },
+    {
+        "id": "Q05",
+        "reconstruction": "${\\mathfrak{I}}.$ Let\n$\\vec{b}=\\hat{t}+2\\hat{j}-\\hat{k},$\nand\nIf\nand",
+        "latency": 0.4767470359802246,
+        "math_spans_detected": 2
+    },
+    {
+        "id": "Q06",
+        "reconstruction": "${\\mathfrak{G}}.$ Find the equation of the plane which passes through the point\ncontains the line of intersection of the planes\n$x+y+z\\ =1$\nand\n$2x-y+3z=4,$\nand is perpendicular to the plane\n$x-2y+2z+5=0.$\n$(\\mathbf{A})\\ 5x-y+z-10=0$\n$\\left(\\mathbf{B}\\right)\\,\\chi+y+z-1=0$\n$(\\mathrm{C})\\;2x-y+3z-4=0$\n$\\left(\\mathrm{D}\\right)\\,3x+y-z+2=0$",
+        "latency": 1.6908299922943115,
+        "math_spans_detected": 8
+    },
+    {
+        "id": "Q07",
+        "reconstruction": "${\\mathcal{T}}.$ Let A and $\\textstyle\\iint$ be two $3\\times3$ matrices such that\nA $-{\\cal A}{\\cal+}\\,{\\cal3}I={\\cal0}$\nand\n$B=A^{-1}+2A.$\nFind the determinant of $\\iint$ if $\\operatorname*{det}(A)=3.$\n$\\left(\\mathbf{A}\\right)\\,\\vartheta$\n$(\\mathbf{B})\\;27$",
+        "latency": 1.3075690269470215,
+        "math_spans_detected": 9
+    },
+    {
+        "id": "Q08",
+        "reconstruction": "${\\mathbf{8}}.$ If\n$f(x)={\\biggl(}{\\frac{1+\\sin x}{1-\\sin x}}{\\biggr)}^{\\mathrm{can}x}$\nthen find\nIn $f({\\boldsymbol{x}})$\n$\\operatorname*{lim}_{x\\to0}$ \u2014\u2014\u2014\u2014.\n$\\displaystyle{X^{2}}$\n$(\\mathbf{A})\\ 1$\n$\\scriptstyle[{\\mathfrak{h}})\\;2$\n$\\left(\\mathbf{C}\\right)\\,4$\n$\\left(\\mathrm{D}\\right)\\,0$",
+        "latency": 1.537524938583374,
+        "math_spans_detected": 9
+    },
+    {
+        "id": "Q09",
+        "reconstruction": "$x+a$ $\\textstyle{\\mathcal{Y}}$ Zz\n$\\textstyle{\\mathcal{N}}$ ytb $\\widetilde{Z}$ $\\longrightarrow2a b c,$\n$\\textstyle{\\mathcal{N}}$ $\\textstyle{\\mathcal{Y}}$ $z+c$\nwhere a, b,c $\\neq0,$ then find the value of\n$\\textstyle{\\mathcal{N}}$ $\\widetilde{Z}$\n$\\frac{y}{b}$\n$(\\mathbf{A})\\ 0$\n$(\\mathbf{B})\\ \\mathbf{1}$\n$\\left(\\mathbf{C}\\right)\\,2$\n$\\left(\\mathrm{D}\\right)\\,3$",
+        "latency": 1.9010801315307617,
+        "math_spans_detected": 16
+    },
+    {
+        "id": "Q10",
+        "reconstruction": "${\\mathsf{L}}{\\mathsf{O}}.$ If\nthen find\n$(\\mathbb{A})$\n$y\\left|\\,\\mathrm{sec}^{2}\\,x\\,\\mathrm{si}$ sinx Inx $+\\tan x\\cos x$ In $x+{\\frac{\\tan x\\sin x}{\\leftrightarrow}}$",
+        "latency": 0.909883975982666,
+        "math_spans_detected": 5
+    }
+]

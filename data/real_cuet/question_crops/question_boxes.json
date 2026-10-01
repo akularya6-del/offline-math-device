@@ -1,0 +1,122 @@
+[
+    {
+        "id": "Q01",
+        "q_num": 1,
+        "page": 1,
+        "bbox": [
+            50,
+            1544,
+            2431,
+            2673
+        ],
+        "crop_path": "data/real_cuet/question_crops/Q01.png"
+    },
+    {
+        "id": "Q02",
+        "q_num": 2,
+        "page": 1,
+        "bbox": [
+            50,
+            2663,
+            2431,
+            3308
+        ],
+        "crop_path": "data/real_cuet/question_crops/Q02.png"
+    },
+    {
+        "id": "Q03",
+        "q_num": 3,
+        "page": 2,
+        "bbox": [
+            50,
+            710,
+            2431,
+            1627
+        ],
+        "crop_path": "data/real_cuet/question_crops/Q03.png"
+    },
+    {
+        "id": "Q04",
+        "q_num": 4,
+        "page": 2,
+        "bbox": [
+            50,
+            1617,
+            2431,
+            2417
+        ],
+        "crop_path": "data/real_cuet/question_crops/Q04.png"
+    },
+    {
+        "id": "Q05",
+        "q_num": 5,
+        "page": 2,
+        "bbox": [
+            50,
+            2407,
+            2431,
+            3308
+        ],
+        "crop_path": "data/real_cuet/question_crops/Q05.png"
+    },
+    {
+        "id": "Q06",
+        "q_num": 6,
+        "page": 3,
+        "bbox": [
+            50,
+            800,
+            2431,
+            2476
+        ],
+        "crop_path": "data/real_cuet/question_crops/Q06.png"
+    },
+    {
+        "id": "Q07",
+        "q_num": 7,
+        "page": 3,
+        "bbox": [
+            50,
+            2466,
+            2431,
+            3308
+        ],
+        "crop_path": "data/real_cuet/question_crops/Q07.png"
+    },
+    {
+        "id": "Q08",
+        "q_num": 8,
+        "page": 4,
+        "bbox": [
+            50,
+            535,
+            2431,
+            1472
+        ],
+        "crop_path": "data/real_cuet/question_crops/Q08.png"
+    },
+    {
+        "id": "Q09",
+        "q_num": 9,
+        "page": 4,
+        "bbox": [
+            50,
+            1462,
+            2431,
+            2638
+        ],
+        "crop_path": "data/real_cuet/question_crops/Q09.png"
+    },
+    {
+        "id": "Q10",
+        "q_num": 10,
+        "page": 4,
+        "bbox": [
+            50,
+            2628,
+            2431,
+            3308
+        ],
+        "crop_path": "data/real_cuet/question_crops/Q10.png"
+    }
+]
